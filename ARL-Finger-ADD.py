@@ -125,7 +125,7 @@ if __name__ == '__main__':
             print('''
     usage:
         
-        python3 ARl-Finger-ADD.py http://192.168.1.1:5003/ admin password
+        python3 ARl-Finger-ADD.py https://192.168.1.1:5003/ admin password
                                                         
                                                          by  loecho
             ''')
