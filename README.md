@@ -8,7 +8,7 @@
 
 ```
 usage:
-         python3 ARl-Finger-ADD.py http://192.168.1.1:5003/ admin password
+         python3 ARl-Finger-ADD.py https://192.168.1.1:5003/ admin password
 ```
 
 ![image](./0.png)
